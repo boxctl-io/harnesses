@@ -24,3 +24,5 @@ it under `~/.boxctl/harness-cache`. A directory of the same name under
 
 - [`pr-only`](pr-only/) -- pull request, never merge. The default for
   unattended runs (`--goal`, `--issue`, the backlog).
+- [`pr-visual`](pr-visual/) -- `pr-only`, plus visual evidence of the
+  result and notes for the next run.
